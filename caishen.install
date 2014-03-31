@@ -184,5 +184,16 @@ function caishen_install() {
     ->fields(array('uid' => 1, 'rid' => $admin_role->rid))
     ->execute();
 
+  // default_theme = variable_get('theme_default', 'bartik');
+  // $admin_theme = 'adminimal_theme';
+
+  // Enable the admin theme.
+  db_update('system')
+    ->fields(array('status' => 1))
+    ->condition('type', 'theme')
+    ->condition('name', 'adminimal_theme')
+    ->execute();
+  variable_set('admin_theme', 'adminimal_theme');
+  variable_set('node_admin_theme', '1');
 
 }
