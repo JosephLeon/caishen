@@ -56,6 +56,7 @@ dependencies[] = xmlsitemap_engines
 dependencies[] = googleanalytics
 dependencies[] = magic
 dependencies[] = html5_tools
+dependencies[] = commerce
 
 ; Features
 ; ------------
@@ -64,5 +65,4 @@ dependencies[] = plato_path_alias
 dependencies[] = plato_text_formats
 dependencies[] = plato_permissions
 dependencies[] = plato_private_file_system_path
-;dependencies[] = plato_seven_admin_theme
 dependencies[] = plato_user_registration
