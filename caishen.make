@@ -134,6 +134,7 @@ projects[commerce_avatax]																				= 4.1
 projects[commerce_authnet]																			= 1.1
 projects[commerce_cba]																					= 1.0-alpha5
 projects[commerce_product_display_manager]											= 1.0-alpha4
+projects[commerce_license]																			= 1.2
 
 ; Uses our own repo of feeds_jsonpath_parser because the php library needs to be
 ; in the module folder but drush version 4 throws an error stopping platform creation
