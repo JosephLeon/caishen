@@ -117,11 +117,11 @@ projects[views_accordion]                                       = 1.0-rc2
 projects[views_bulk_operations]                                 = 3.1
 projects[views_php]                                             = 1.x-dev
 projects[views_slideshow]                                       = 3.0
-projects[webform]                                               = 3.19
+projects[webform]                                               = 3.20
 projects[webform_multifile]                                     = 1.2
-projects[webform_validation]                                    = 1.3
+projects[webform_validation]                                    = 1.5
 projects[weight]                                                = 2.3
-projects[xmlsitemap]                                            = 2.0-rc2
+projects[xmlsitemap]                                            = 2.0
 
 ; Commerce section:
 projects[commerce]																							= 1.9
