@@ -122,7 +122,7 @@ projects[xmlsitemap]                                            = 2.0
 ; Commerce section:
 projects[commerce]																							= 1.9
 projects[commerce_shipping]																			= 2.1
-projects[commerce_stock]																				= 2.0-rc1
+projects[commerce_stock]																				= 2.0
 projects[commerce_coupon]																				= 2.0-beta1
 projects[commerce_file]																					= 2.0-beta2
 projects[commerce_paypal]																				= 2.3
