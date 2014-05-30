@@ -1,15 +1,11 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.26"
-
-; Themes:
-projects[adminimal_theme][version] 															= 1.2
+projects[drupal][version] = "7.28"
 
 ; Modules:
 projects[addressfield]                                          = 1.0-beta5
 projects[admin_menu]                                            = 3.0-rc4
-projects[adminimal_admin_menu]																	= 1.5
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 2.7
 projects[better_exposed_filters]                                = 3.0-beta3
@@ -135,6 +131,7 @@ projects[commerce_authnet]																			= 1.1
 projects[commerce_cba]																					= 1.0-alpha5
 projects[commerce_product_display_manager]											= 1.0-alpha4
 projects[commerce_license]																			= 1.2
+projects[commerce_wishlist]																			= 1.0-alpha2
 
 ; Uses our own repo of feeds_jsonpath_parser because the php library needs to be
 ; in the module folder but drush version 4 throws an error stopping platform creation
