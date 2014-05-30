@@ -24,7 +24,6 @@ dependencies[] = file
 ; Contrib
 ; ------------
 dependencies[] = admin_menu
-dependencies[] = adminimal_admin_menu
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
