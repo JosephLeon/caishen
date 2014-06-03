@@ -3,8 +3,6 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.28"
 
-projects[zen]
-
 ; Modules:
 projects[addressfield]                                          = 1.0-beta5
 projects[admin_menu]                                            = 3.0-rc4
