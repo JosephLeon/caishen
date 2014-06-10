@@ -17,7 +17,7 @@ projects[clientside_validation]																	= 1.39
 projects[conditional_fields]                                    = 3.x-dev
 projects[cs_adaptive_image]                                     = 1.0
 projects[ctools]                                                = 1.4
-projects[colorbox]                                              = 2.4
+projects[colorbox]                                              = 2.6
 projects[custom_breadcrumbs]                                    = 2.0-alpha3
 projects[date]                                                  = 2.7
 projects[devel]                                                 = 1.4
@@ -61,7 +61,7 @@ projects[imagecache_actions]                                    = 1.3
 projects[imagemarker]                                           = 1.0
 projects[imce]                                                  = 1.9
 projects[inline_messages]                                       = 1.0
-projects[jquery_update]                                         = 2.3
+projects[jquery_update]                                         = 2.4
 projects[job_scheduler]                                         = 2.0-alpha3
 ; label_help needs to be checked for non dev before comp:
 projects[label_help]																						= 1.x-dev
