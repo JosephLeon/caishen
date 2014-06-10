@@ -1,0 +1,9 @@
+core = 7.x
+api = 2
+
+projects[drupal][version] = "7.28"
+
+; Profile
+projects[caishen][type] = profile
+projects[caishen][download][type] = git
+projects[caishen][download][url] = https://bitbucket.org/joseph_leon/caishen.git
