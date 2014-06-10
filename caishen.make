@@ -150,7 +150,6 @@ projects[geophp][download][branch] = "7.x-1.7"
 projects[create_zen][type] = "module"
 projects[create_zen][download][type] = "git"
 projects[create_zen][download][url] = "https://github.com/JosephLeon/drupal-theme-generator.git"
-; projects[create_zen][download][branch] = "7.x-1.0"
 
 
 ; Libraries:
