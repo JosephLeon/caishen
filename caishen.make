@@ -8,7 +8,7 @@ projects[addressfield]                                          = 1.0-beta5
 projects[admin_menu]                                            = 3.0-rc4
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 2.7
-; projects[block_class]																						= 2.1
+projects[block_class]																						= 2.1
 projects[breakpoints]																						= 1.3
 projects[better_exposed_filters]                                = 3.0-beta3
 projects[boolean_icon]                                          = 1.1
@@ -95,7 +95,7 @@ projects[openlayers]                                            = 2.0-beta7
 projects[panels]																								= 3.3
 projects[pathauto]                                              = 1.2
 projects[plupload]                                              = 1.2
-projects[picture]
+projects[picture]																								= 2.7
 projects[print]                                                 = 1.2
 projects[proj4js]                                               = 1.2
 projects[responsive_menus]                                      = 1.3
