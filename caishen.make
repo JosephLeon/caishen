@@ -1,19 +1,23 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.28"
+projects[drupal][version] = "7.31"
 
 ; Modules:
 projects[addressfield]                                          = 1.0-beta5
 projects[admin_menu]                                            = 3.0-rc4
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 2.7
+projects[block_class]
+projects[breakpoints]
 projects[better_exposed_filters]                                = 3.0-beta3
 projects[boolean_icon]                                          = 1.1
 projects[calendar]                                              = 3.4
 projects[captcha]                                               = 1.0
 projects[ckeditor]                                              = 1.14
 projects[clientside_validation]																	= 1.39
+projects[coder]
+projects[coder_tough_love]
 projects[conditional_fields]                                    = 3.x-dev
 projects[cs_adaptive_image]                                     = 1.0
 projects[ctools]                                                = 1.4
@@ -91,6 +95,7 @@ projects[openlayers]                                            = 2.0-beta7
 projects[panels]																								= 3.3
 projects[pathauto]                                              = 1.2
 projects[plupload]                                              = 1.2
+projects[picture]
 projects[print]                                                 = 1.2
 projects[proj4js]                                               = 1.2
 projects[responsive_menus]                                      = 1.3
@@ -133,6 +138,16 @@ projects[commerce_product_display_manager]											= 1.0-alpha4
 projects[commerce_license]																			= 1.2
 projects[commerce_wishlist]																			= 1.0-alpha2
 projects[commerce_search]																				= 1.0-rc6
+projects[commerce_backoffice]
+projects[commerce_custom_product]
+projects[commerce_product_clone]
+projects[facetapi]
+projects[facetapi_bonus]
+projects[facetapi_ranges]
+projects[facetapi_collapsible]
+projects[search_api]
+projects[search_api_db]
+projects[search_api_ranges]
 
 ; Uses our own repo of feeds_jsonpath_parser because the php library needs to be
 ; in the module folder but drush version 4 throws an error stopping platform creation
