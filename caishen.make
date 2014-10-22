@@ -14,7 +14,7 @@ projects[better_exposed_filters]                                = 3.0-beta3
 projects[boolean_icon]                                          = 1.1
 projects[calendar]                                              = 3.4
 projects[captcha]                                               = 1.0
-projects[ckeditor]                                              = 1.14
+projects[ckeditor]                                              = 1.16
 projects[clientside_validation]																	= 1.39
 projects[coder]																									= 2.2
 projects[coder_tough_love]																			= 1.0
@@ -125,7 +125,7 @@ projects[weight]                                                = 2.3
 projects[xmlsitemap]                                            = 2.0
 
 ; Commerce section:
-projects[commerce]																							= 1.9
+projects[commerce]																							= 1.10
 projects[commerce_shipping]																			= 2.1
 projects[commerce_stock]																				= 2.0
 projects[commerce_coupon]																				= 2.0-beta1
