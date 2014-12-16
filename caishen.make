@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.32"
+projects[drupal][version] = "7.34"
 
 ; Modules:
 projects[addressfield]                                          = 1.0-beta5
